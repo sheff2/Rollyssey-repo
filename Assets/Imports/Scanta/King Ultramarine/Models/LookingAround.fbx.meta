@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 169ee11886f6843f881d6ee24c85e35d
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Assets_rig:cc_slider
+  - first:
+      1: 100002
+    second: Assets_rig:cc_slider1
+  - first:
+      1: 100004
+    second: Assets_rig:nurbsCircle1
+  - first:
+      1: 100006
+    second: Assets_rig:nurbsCircle2
+  - first:
+      1: 100008
+    second: cc_slider
+  - first:
+      1: 100010
+    second: Fish_rig:arch49_047_obj_00
+  - first:
+      1: 100012
+    second: Fish_rig:arch49_047_obj_01
+  - first:
+      1: 100014
+    second: Fish_rig:arch49_047_obj_02
+  - first:
+      1: 100016
+    second: Fish_rig:arch49_047_obj_03
+  - first:
+      1: 100018
+    second: Fish_rig:arch49_047_obj_04
+  - first:
+      1: 100020
+    second: Fish_rig:fish
+  - first:
+      1: 100022
+    second: Fish_rig:Fish5:Group2
+  - first:
+      1: 100024
+    second: Fish_rig:fish_l_arm_ClavicleSHJnt
+  - first:
+      1: 100026
+    second: Fish_rig:fish_l_arm_ElbowSHJnt
+  - first:
+      1: 100028
+    second: Fish_rig:fish_l_arm_ShoulderSHJnt
+  - first:
+      1: 100030
+    second: Fish_rig:fish_l_arm_WristSHJnt
+  - first:
+      1: 100032
+    second: Fish_rig:fish_l_legs_AnkleSHJnt
+  - first:
+      1: 100034
+    second: Fish_rig:fish_l_legs_BallSHJnt
+  - first:
+      1: 100036
+    second: Fish_rig:fish_l_legs_HipSHJnt
+  - first:
+      1: 100038
+    second: Fish_rig:fish_l_legs_KneeSHJnt
+  - first:
+      1: 100040
+    second: Fish_rig:fish_l_legs_ToeSHJnt
+  - first:
+      1: 100042
+    second: Fish_rig:fish_r_arm_ClavicleSHJnt
+  - first:
+      1: 100044
+    second: Fish_rig:fish_r_arm_ElbowSHJnt
+  - first:
+      1: 100046
+    second: Fish_rig:fish_r_arm_ShoulderSHJnt
+  - first:
+      1: 100048
+    second: Fish_rig:fish_r_arm_WristSHJnt
+  - first:
+      1: 100050
+    second: Fish_rig:fish_r_legs_AnkleSHJnt
+  - first:
+      1: 100052
+    second: Fish_rig:fish_r_legs_BallSHJnt
+  - first:
+      1: 100054
+    second: Fish_rig:fish_r_legs_HipSHJnt
+  - first:
+      1: 100056
+    second: Fish_rig:fish_r_legs_KneeSHJnt
+  - first:
+      1: 100058
+    second: Fish_rig:fish_r_legs_ToeSHJnt
+  - first:
+      1: 100060
+    second: Fish_rig:fish_ROOTSHJnt
+  - first:
+      1: 100062
+    second: Fish_rig:fish_SHJntGrp
+  - first:
+      1: 100064
+    second: Fish_rig:Fish_small:pSphere3
+  - first:
+      1: 100066
+    second: Fish_rig:fish_spine_01SHJnt
+  - first:
+      1: 100068
+    second: Fish_rig:fish_spine_02SHJnt
+  - first:
+      1: 100070
+    second: Fish_rig:fish_spine_TopSHJnt
+  - first:
+      1: 100072
+    second: Fish_rig:fish_tails_01_01SHJnt
+  - first:
+      1: 100074
+    second: Fish_rig:fish_tails_01_02SHJnt
+  - first:
+      1: 100076
+    second: Fish_rig:fish_tails_01_03SHJnt
+  - first:
+      1: 100078
+    second: Fish_rig:fish_tails_01_04SHJnt
+  - first:
+      1: 100080
+    second: Fish_rig:fish_tails_01_05SHJnt
+  - first:
+      1: 100082
+    second: Fish_rig:fish_tails_01_06SHJnt
+  - first:
+      1: 100084
+    second: Fish_rig:fish_tails_01_07SHJnt
+  - first:
+      1: 100086
+    second: Fish_rig:fishnew
+  - first:
+      1: 100088
+    second: Fish_rig:group2
+  - first:
+      1: 100090
+    second: Fish_rig:group3
+  - first:
+      1: 100092
+    second: Fish_rig:jnt_board
+  - first:
+      1: 100094
+    second: Fish_rig:jnt_board1
+  - first:
+      1: 100096
+    second: Fish_rig:jnt_board2
+  - first:
+      1: 100098
+    second: Fish_rig:jnt_board_brp
+  - first:
+      1: 100100
+    second: Fish_rig:jnt_eye
+  - first:
+      1: 100102
+    second: Fish_rig:jnt_eye1
+  - first:
+      1: 100104
+    second: Fish_rig:jnt_grp
+  - first:
+      1: 100106
+    second: Fish_rig:jnt_low_front
+  - first:
+      1: 100108
+    second: Fish_rig:jnt_low_front1
+  - first:
+      1: 100110
+    second: Fish_rig:jnt_wheel_back
+  - first:
+      1: 100112
+    second: Fish_rig:jnt_wheel_front
+  - first:
+      1: 100114
+    second: Fish_rig:jnt_wings
+  - first:
+      1: 100116
+    second: Fish_rig:jnt_wings1
+  - first:
+      1: 100118
+    second: Fish_rig:jnt_wings2
+  - first:
+      1: 100120
+    second: Fish_rig:pCube1
+  - first:
+      1: 100122
+    second: Fish_rig:pCylinder5
+  - first:
+      1: 100124
+    second: Fish_rig:pCylinder6
+  - first:
+      1: 100126
+    second: Fish_rig:pCylinder7
+  - first:
+      1: 100128
+    second: Fish_rig:pCylinder8
+  - first:
+      1: 100130
+    second: Fish_rig:polySurface1
+  - first:
+      1: 100132
+    second: Fish_rig:polySurface2
+  - first:
+      1: 100134
+    second: Fish_rig:polySurface4
+  - first:
+      1: 100136
+    second: Fish_rig:polySurface6
+  - first:
+      1: 100138
+    second: Fish_rig:polySurface7
+  - first:
+      1: 100140
+    second: Fish_rig:pSphere1
+  - first:
+      1: 100142
+    second: Fish_rig:pSphere2
+  - first:
+      1: 100144
+    second: Fish_rig:Shoes:polySurface11
+  - first:
+      1: 100146
+    second: Fish_rig:Shoes:polySurface3
+  - first:
+      1: 100148
+    second: Fish_rig:Skateboard:board
+  - first:
+      1: 100150
+    second: Fish_rig:transform1
+  - first:
+      1: 100152
+    second: Fish_rig:transform2
+  - first:
+      1: 100154
+    second: Fish_rig:transform3
+  - first:
+      1: 100156
+    second: Fish_rig:transform4
+  - first:
+      1: 100158
+    second: Fish_rig:transform5
+  - first:
+      1: 100160
+    second: Fish_rig:transform6
+  - first:
+      1: 100162
+    second: Fish_rig:transform7
+  - first:
+      1: 100164
+    second: Fish_rig:transform8
+  - first:
+      1: 100166
+    second: Fish_rig:wheel_back
+  - first:
+      1: 100168
+    second: Fish_rig:wheel_front
+  - first:
+      1: 100170
+    second: Fish_rig:wings_jnt
+  - first:
+      1: 100172
+    second: //RootNode
+  - first:
+      1: 100174
+    second: road_plane
+  - first:
+      1: 100176
+    second: road_plane1
+  - first:
+      1: 100178
+    second: road_plane2
+  - first:
+      1: 100180
+    second: road_plane3
+  - first:
+      1: 100182
+    second: road_plane4
+  - first:
+      1: 100184
+    second: road_plane5
+  - first:
+      1: 100186
+    second: road_plane6
+  - first:
+      1: 100188
+    second: road_plane7
+  - first:
+      1: 100190
+    second: road_plane8
+  - first:
+      1: 100192
+    second: roadpole
+  - first:
+      1: 100194
+    second: roadSlider
+  - first:
+      1: 100196
+    second: slider
+  - first:
+      4: 400000
+    second: Assets_rig:cc_slider
+  - first:
+      4: 400002
+    second: Assets_rig:cc_slider1
+  - first:
+      4: 400004
+    second: Assets_rig:nurbsCircle1
+  - first:
+      4: 400006
+    second: Assets_rig:nurbsCircle2
+  - first:
+      4: 400008
+    second: cc_slider
+  - first:
+      4: 400010
+    second: Fish_rig:arch49_047_obj_00
+  - first:
+      4: 400012
+    second: Fish_rig:arch49_047_obj_01
+  - first:
+      4: 400014
+    second: Fish_rig:arch49_047_obj_02
+  - first:
+      4: 400016
+    second: Fish_rig:arch49_047_obj_03
+  - first:
+      4: 400018
+    second: Fish_rig:arch49_047_obj_04
+  - first:
+      4: 400020
+    second: Fish_rig:fish
+  - first:
+      4: 400022
+    second: Fish_rig:Fish5:Group2
+  - first:
+      4: 400024
+    second: Fish_rig:fish_l_arm_ClavicleSHJnt
+  - first:
+      4: 400026
+    second: Fish_rig:fish_l_arm_ElbowSHJnt
+  - first:
+      4: 400028
+    second: Fish_rig:fish_l_arm_ShoulderSHJnt
+  - first:
+      4: 400030
+    second: Fish_rig:fish_l_arm_WristSHJnt
+  - first:
+      4: 400032
+    second: Fish_rig:fish_l_legs_AnkleSHJnt
+  - first:
+      4: 400034
+    second: Fish_rig:fish_l_legs_BallSHJnt
+  - first:
+      4: 400036
+    second: Fish_rig:fish_l_legs_HipSHJnt
+  - first:
+      4: 400038
+    second: Fish_rig:fish_l_legs_KneeSHJnt
+  - first:
+      4: 400040
+    second: Fish_rig:fish_l_legs_ToeSHJnt
+  - first:
+      4: 400042
+    second: Fish_rig:fish_r_arm_ClavicleSHJnt
+  - first:
+      4: 400044
+    second: Fish_rig:fish_r_arm_ElbowSHJnt
+  - first:
+      4: 400046
+    second: Fish_rig:fish_r_arm_ShoulderSHJnt
+  - first:
+      4: 400048
+    second: Fish_rig:fish_r_arm_WristSHJnt
+  - first:
+      4: 400050
+    second: Fish_rig:fish_r_legs_AnkleSHJnt
+  - first:
+      4: 400052
+    second: Fish_rig:fish_r_legs_BallSHJnt
+  - first:
+      4: 400054
+    second: Fish_rig:fish_r_legs_HipSHJnt
+  - first:
+      4: 400056
+    second: Fish_rig:fish_r_legs_KneeSHJnt
+  - first:
+      4: 400058
+    second: Fish_rig:fish_r_legs_ToeSHJnt
+  - first:
+      4: 400060
+    second: Fish_rig:fish_ROOTSHJnt
+  - first:
+      4: 400062
+    second: Fish_rig:fish_SHJntGrp
+  - first:
+      4: 400064
+    second: Fish_rig:Fish_small:pSphere3
+  - first:
+      4: 400066
+    second: Fish_rig:fish_spine_01SHJnt
+  - first:
+      4: 400068
+    second: Fish_rig:fish_spine_02SHJnt
+  - first:
+      4: 400070
+    second: Fish_rig:fish_spine_TopSHJnt
+  - first:
+      4: 400072
+    second: Fish_rig:fish_tails_01_01SHJnt
+  - first:
+      4: 400074
+    second: Fish_rig:fish_tails_01_02SHJnt
+  - first:
+      4: 400076
+    second: Fish_rig:fish_tails_01_03SHJnt
+  - first:
+      4: 400078
+    second: Fish_rig:fish_tails_01_04SHJnt
+  - first:
+      4: 400080
+    second: Fish_rig:fish_tails_01_05SHJnt
+  - first:
+      4: 400082
+    second: Fish_rig:fish_tails_01_06SHJnt
+  - first:
+      4: 400084
+    second: Fish_rig:fish_tails_01_07SHJnt
+  - first:
+      4: 400086
+    second: Fish_rig:fishnew
+  - first:
+      4: 400088
+    second: Fish_rig:group2
+  - first:
+      4: 400090
+    second: Fish_rig:group3
+  - first:
+      4: 400092
+    second: Fish_rig:jnt_board
+  - first:
+      4: 400094
+    second: Fish_rig:jnt_board1
+  - first:
+      4: 400096
+    second: Fish_rig:jnt_board2
+  - first:
+      4: 400098
+    second: Fish_rig:jnt_board_brp
+  - first:
+      4: 400100
+    second: Fish_rig:jnt_eye
+  - first:
+      4: 400102
+    second: Fish_rig:jnt_eye1
+  - first:
+      4: 400104
+    second: Fish_rig:jnt_grp
+  - first:
+      4: 400106
+    second: Fish_rig:jnt_low_front
+  - first:
+      4: 400108
+    second: Fish_rig:jnt_low_front1
+  - first:
+      4: 400110
+    second: Fish_rig:jnt_wheel_back
+  - first:
+      4: 400112
+    second: Fish_rig:jnt_wheel_front
+  - first:
+      4: 400114
+    second: Fish_rig:jnt_wings
+  - first:
+      4: 400116
+    second: Fish_rig:jnt_wings1
+  - first:
+      4: 400118
+    second: Fish_rig:jnt_wings2
+  - first:
+      4: 400120
+    second: Fish_rig:pCube1
+  - first:
+      4: 400122
+    second: Fish_rig:pCylinder5
+  - first:
+      4: 400124
+    second: Fish_rig:pCylinder6
+  - first:
+      4: 400126
+    second: Fish_rig:pCylinder7
+  - first:
+      4: 400128
+    second: Fish_rig:pCylinder8
+  - first:
+      4: 400130
+    second: Fish_rig:polySurface1
+  - first:
+      4: 400132
+    second: Fish_rig:polySurface2
+  - first:
+      4: 400134
+    second: Fish_rig:polySurface4
+  - first:
+      4: 400136
+    second: Fish_rig:polySurface6
+  - first:
+      4: 400138
+    second: Fish_rig:polySurface7
+  - first:
+      4: 400140
+    second: Fish_rig:pSphere1
+  - first:
+      4: 400142
+    second: Fish_rig:pSphere2
+  - first:
+      4: 400144
+    second: Fish_rig:Shoes:polySurface11
+  - first:
+      4: 400146
+    second: Fish_rig:Shoes:polySurface3
+  - first:
+      4: 400148
+    second: Fish_rig:Skateboard:board
+  - first:
+      4: 400150
+    second: Fish_rig:transform1
+  - first:
+      4: 400152
+    second: Fish_rig:transform2
+  - first:
+      4: 400154
+    second: Fish_rig:transform3
+  - first:
+      4: 400156
+    second: Fish_rig:transform4
+  - first:
+      4: 400158
+    second: Fish_rig:transform5
+  - first:
+      4: 400160
+    second: Fish_rig:transform6
+  - first:
+      4: 400162
+    second: Fish_rig:transform7
+  - first:
+      4: 400164
+    second: Fish_rig:transform8
+  - first:
+      4: 400166
+    second: Fish_rig:wheel_back
+  - first:
+      4: 400168
+    second: Fish_rig:wheel_front
+  - first:
+      4: 400170
+    second: Fish_rig:wings_jnt
+  - first:
+      4: 400172
+    second: //RootNode
+  - first:
+      4: 400174
+    second: road_plane
+  - first:
+      4: 400176
+    second: road_plane1
+  - first:
+      4: 400178
+    second: road_plane2
+  - first:
+      4: 400180
+    second: road_plane3
+  - first:
+      4: 400182
+    second: road_plane4
+  - first:
+      4: 400184
+    second: road_plane5
+  - first:
+      4: 400186
+    second: road_plane6
+  - first:
+      4: 400188
+    second: road_plane7
+  - first:
+      4: 400190
+    second: road_plane8
+  - first:
+      4: 400192
+    second: roadpole
+  - first:
+      4: 400194
+    second: roadSlider
+  - first:
+      4: 400196
+    second: slider
+  - first:
+      23: 2300000
+    second: road_plane
+  - first:
+      23: 2300002
+    second: road_plane1
+  - first:
+      23: 2300004
+    second: road_plane2
+  - first:
+      23: 2300006
+    second: road_plane3
+  - first:
+      23: 2300008
+    second: road_plane4
+  - first:
+      23: 2300010
+    second: road_plane5
+  - first:
+      23: 2300012
+    second: road_plane6
+  - first:
+      23: 2300014
+    second: road_plane7
+  - first:
+      23: 2300016
+    second: road_plane8
+  - first:
+      23: 2300018
+    second: roadpole
+  - first:
+      23: 2300020
+    second: roadSlider
+  - first:
+      23: 2300022
+    second: slider
+  - first:
+      33: 3300000
+    second: road_plane
+  - first:
+      33: 3300002
+    second: road_plane1
+  - first:
+      33: 3300004
+    second: road_plane2
+  - first:
+      33: 3300006
+    second: road_plane3
+  - first:
+      33: 3300008
+    second: road_plane4
+  - first:
+      33: 3300010
+    second: road_plane5
+  - first:
+      33: 3300012
+    second: road_plane6
+  - first:
+      33: 3300014
+    second: road_plane7
+  - first:
+      33: 3300016
+    second: road_plane8
+  - first:
+      33: 3300018
+    second: roadpole
+  - first:
+      33: 3300020
+    second: roadSlider
+  - first:
+      33: 3300022
+    second: slider
+  - first:
+      43: 4300000
+    second: road_plane
+  - first:
+      43: 4300002
+    second: road_plane1
+  - first:
+      43: 4300004
+    second: road_plane2
+  - first:
+      43: 4300006
+    second: road_plane3
+  - first:
+      43: 4300008
+    second: road_plane4
+  - first:
+      43: 4300010
+    second: road_plane5
+  - first:
+      43: 4300012
+    second: road_plane6
+  - first:
+      43: 4300014
+    second: road_plane7
+  - first:
+      43: 4300016
+    second: road_plane8
+  - first:
+      43: 4300018
+    second: Fish_rig:Skateboard:board
+  - first:
+      43: 4300020
+    second: Fish_rig:Shoes:polySurface3
+  - first:
+      43: 4300022
+    second: Fish_rig:Shoes:polySurface11
+  - first:
+      43: 4300024
+    second: Fish_rig:polySurface4
+  - first:
+      43: 4300026
+    second: Fish_rig:polySurface6
+  - first:
+      43: 4300028
+    second: Fish_rig:polySurface7
+  - first:
+      43: 4300030
+    second: Fish_rig:polySurface1
+  - first:
+      43: 4300032
+    second: Fish_rig:polySurface2
+  - first:
+      43: 4300034
+    second: Fish_rig:wheel_front
+  - first:
+      43: 4300036
+    second: Fish_rig:wheel_back
+  - first:
+      43: 4300038
+    second: Fish_rig:fishnew
+  - first:
+      43: 4300040
+    second: roadpole
+  - first:
+      43: 4300042
+    second: roadSlider
+  - first:
+      43: 4300044
+    second: slider
+  - first:
+      74: 7400000
+    second: LookingAround
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Fish_rig:fishnew
+  - first:
+      137: 13700002
+    second: Fish_rig:polySurface1
+  - first:
+      137: 13700004
+    second: Fish_rig:polySurface2
+  - first:
+      137: 13700006
+    second: Fish_rig:polySurface4
+  - first:
+      137: 13700008
+    second: Fish_rig:polySurface6
+  - first:
+      137: 13700010
+    second: Fish_rig:polySurface7
+  - first:
+      137: 13700012
+    second: Fish_rig:Shoes:polySurface11
+  - first:
+      137: 13700014
+    second: Fish_rig:Shoes:polySurface3
+  - first:
+      137: 13700016
+    second: Fish_rig:Skateboard:board
+  - first:
+      137: 13700018
+    second: Fish_rig:wheel_back
+  - first:
+      137: 13700020
+    second: Fish_rig:wheel_front
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 82619125a4ba849ffbc4e7edf37c4c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish_rig_Fish3
+    second: {fileID: 2100000, guid: 2833bd3dc62b04616b07cb8b46524183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 5b270e8302b1a3d418a22e667959f9b3, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LookingAround
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Assets_rig:cc_slider1
+        weight: 1
+      - path: Assets_rig:cc_slider1/Assets_rig:cc_slider
+        weight: 1
+      - path: Assets_rig:cc_slider1/Assets_rig:cc_slider/roadSlider
+        weight: 1
+      - path: Assets_rig:cc_slider1/cc_slider
+        weight: 1
+      - path: Assets_rig:cc_slider1/cc_slider/slider
+        weight: 1
+      - path: Assets_rig:nurbsCircle2
+        weight: 1
+      - path: Assets_rig:nurbsCircle2/Assets_rig:nurbsCircle1
+        weight: 1
+      - path: Assets_rig:nurbsCircle2/Assets_rig:nurbsCircle1/roadpole
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_00
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_00/Fish_rig:transform5
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_01
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_01/Fish_rig:transform4
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_02
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_02/Fish_rig:transform3
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_03
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_03/Fish_rig:transform2
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_04
+        weight: 1
+      - path: Fish_rig:arch49_047_obj_04/Fish_rig:transform1
+        weight: 1
+      - path: Fish_rig:fish
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_l_legs_HipSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_l_legs_HipSHJnt/Fish_rig:fish_l_legs_KneeSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_l_legs_HipSHJnt/Fish_rig:fish_l_legs_KneeSHJnt/Fish_rig:fish_l_legs_AnkleSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_l_legs_HipSHJnt/Fish_rig:fish_l_legs_KneeSHJnt/Fish_rig:fish_l_legs_AnkleSHJnt/Fish_rig:fish_l_legs_BallSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_l_legs_HipSHJnt/Fish_rig:fish_l_legs_KneeSHJnt/Fish_rig:fish_l_legs_AnkleSHJnt/Fish_rig:fish_l_legs_BallSHJnt/Fish_rig:fish_l_legs_ToeSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_r_legs_HipSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_r_legs_HipSHJnt/Fish_rig:fish_r_legs_KneeSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_r_legs_HipSHJnt/Fish_rig:fish_r_legs_KneeSHJnt/Fish_rig:fish_r_legs_AnkleSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_r_legs_HipSHJnt/Fish_rig:fish_r_legs_KneeSHJnt/Fish_rig:fish_r_legs_AnkleSHJnt/Fish_rig:fish_r_legs_BallSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_r_legs_HipSHJnt/Fish_rig:fish_r_legs_KneeSHJnt/Fish_rig:fish_r_legs_AnkleSHJnt/Fish_rig:fish_r_legs_BallSHJnt/Fish_rig:fish_r_legs_ToeSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_l_arm_ClavicleSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_l_arm_ClavicleSHJnt/Fish_rig:fish_l_arm_ShoulderSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_l_arm_ClavicleSHJnt/Fish_rig:fish_l_arm_ShoulderSHJnt/Fish_rig:fish_l_arm_ElbowSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_l_arm_ClavicleSHJnt/Fish_rig:fish_l_arm_ShoulderSHJnt/Fish_rig:fish_l_arm_ElbowSHJnt/Fish_rig:fish_l_arm_WristSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_r_arm_ClavicleSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_r_arm_ClavicleSHJnt/Fish_rig:fish_r_arm_ShoulderSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_r_arm_ClavicleSHJnt/Fish_rig:fish_r_arm_ShoulderSHJnt/Fish_rig:fish_r_arm_ElbowSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_r_arm_ClavicleSHJnt/Fish_rig:fish_r_arm_ShoulderSHJnt/Fish_rig:fish_r_arm_ElbowSHJnt/Fish_rig:fish_r_arm_WristSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_spine_02SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_spine_02SHJnt/Fish_rig:fish_spine_TopSHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_tails_01_01SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_tails_01_01SHJnt/Fish_rig:fish_tails_01_02SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_tails_01_01SHJnt/Fish_rig:fish_tails_01_02SHJnt/Fish_rig:fish_tails_01_03SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_tails_01_01SHJnt/Fish_rig:fish_tails_01_02SHJnt/Fish_rig:fish_tails_01_03SHJnt/Fish_rig:fish_tails_01_04SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_tails_01_01SHJnt/Fish_rig:fish_tails_01_02SHJnt/Fish_rig:fish_tails_01_03SHJnt/Fish_rig:fish_tails_01_04SHJnt/Fish_rig:fish_tails_01_05SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_tails_01_01SHJnt/Fish_rig:fish_tails_01_02SHJnt/Fish_rig:fish_tails_01_03SHJnt/Fish_rig:fish_tails_01_04SHJnt/Fish_rig:fish_tails_01_05SHJnt/Fish_rig:fish_tails_01_06SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:fish_ROOTSHJnt/Fish_rig:fish_spine_01SHJnt/Fish_rig:fish_tails_01_01SHJnt/Fish_rig:fish_tails_01_02SHJnt/Fish_rig:fish_tails_01_03SHJnt/Fish_rig:fish_tails_01_04SHJnt/Fish_rig:fish_tails_01_05SHJnt/Fish_rig:fish_tails_01_06SHJnt/Fish_rig:fish_tails_01_07SHJnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:wings_jnt
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:wings_jnt/Fish_rig:jnt_wings
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:wings_jnt/Fish_rig:jnt_wings1
+        weight: 1
+      - path: Fish_rig:fish/Fish_rig:fish_SHJntGrp/Fish_rig:wings_jnt/Fish_rig:jnt_wings2
+        weight: 1
+      - path: Fish_rig:Fish5:Group2
+        weight: 1
+      - path: Fish_rig:Fish5:Group2/Fish_rig:transform6
+        weight: 1
+      - path: Fish_rig:Fish_small:pSphere3
+        weight: 1
+      - path: Fish_rig:Fish_small:pSphere3/Fish_rig:polySurface1
+        weight: 1
+      - path: Fish_rig:Fish_small:pSphere3/Fish_rig:polySurface2
+        weight: 1
+      - path: Fish_rig:fishnew
+        weight: 1
+      - path: Fish_rig:group2
+        weight: 1
+      - path: Fish_rig:group2/Fish_rig:jnt_grp
+        weight: 1
+      - path: Fish_rig:group2/Fish_rig:jnt_grp/Fish_rig:jnt_board
+        weight: 1
+      - path: Fish_rig:group2/Fish_rig:jnt_grp/Fish_rig:jnt_board1
+        weight: 1
+      - path: Fish_rig:group2/Fish_rig:jnt_grp/Fish_rig:jnt_board2
+        weight: 1
+      - path: Fish_rig:group3
+        weight: 1
+      - path: Fish_rig:jnt_board_brp
+        weight: 1
+      - path: Fish_rig:jnt_board_brp/Fish_rig:jnt_low_front
+        weight: 1
+      - path: Fish_rig:jnt_board_brp/Fish_rig:jnt_low_front1
+        weight: 1
+      - path: Fish_rig:jnt_eye
+        weight: 1
+      - path: Fish_rig:jnt_eye1
+        weight: 1
+      - path: Fish_rig:jnt_wheel_back
+        weight: 1
+      - path: Fish_rig:jnt_wheel_front
+        weight: 1
+      - path: Fish_rig:pCube1
+        weight: 1
+      - path: Fish_rig:pCylinder5
+        weight: 1
+      - path: Fish_rig:pCylinder6
+        weight: 1
+      - path: Fish_rig:pCylinder7
+        weight: 1
+      - path: Fish_rig:pCylinder8
+        weight: 1
+      - path: Fish_rig:pCylinder8/Fish_rig:polySurface4
+        weight: 1
+      - path: Fish_rig:pCylinder8/Fish_rig:polySurface6
+        weight: 1
+      - path: Fish_rig:pCylinder8/Fish_rig:polySurface7
+        weight: 1
+      - path: Fish_rig:pSphere1
+        weight: 1
+      - path: Fish_rig:pSphere1/Fish_rig:transform8
+        weight: 1
+      - path: Fish_rig:pSphere2
+        weight: 1
+      - path: Fish_rig:pSphere2/Fish_rig:transform7
+        weight: 1
+      - path: Fish_rig:Shoes:polySurface3
+        weight: 1
+      - path: Fish_rig:Shoes:polySurface11
+        weight: 1
+      - path: Fish_rig:Skateboard:board
+        weight: 1
+      - path: Fish_rig:wheel_back
+        weight: 1
+      - path: Fish_rig:wheel_front
+        weight: 1
+      - path: road_plane
+        weight: 1
+      - path: road_plane1
+        weight: 1
+      - path: road_plane2
+        weight: 1
+      - path: road_plane3
+        weight: 1
+      - path: road_plane4
+        weight: 1
+      - path: road_plane5
+        weight: 1
+      - path: road_plane6
+        weight: 1
+      - path: road_plane7
+        weight: 1
+      - path: road_plane8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: fishskating
+  assetBundleVariant: 
