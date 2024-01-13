@@ -1,7 +1,8 @@
-# ball-adventure-repo
+# Rollyssey-repo
 repository for ball adventure unity game
 
-Currently a webgl game https://play.unity.com/mg/other/runnerdemo
+Previously a webgl game https://play.unity.com/mg/other/runnerdemo
+**Webgl game is many updates behind IOS app
 
 Rollyssey on the app store
 
